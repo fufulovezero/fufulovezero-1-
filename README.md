@@ -1,2 +1,27 @@
-# fufulovezero-1-
-试验库
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的第一个网页</title>
+   
+<body>
+    <div class="container">
+        <h1>欢迎来到我的网站</h1>
+        
+        <p>这是一个简单的HTML网页示例，展示了基本元素的使用。</p>
+        
+        <h2>关于我</h2>
+        <p>我是网页开发初学者，正在学习HTML。</p>
+        
+        <h2>示例图片</h2>
+        <img src="https://picsum.photos/600/300" alt="随机图片">  <!-- 随机风景图 -->
+        
+        <h2>有用的链接</h2>
+        <ul>
+            <li><a href="https://www.w3schools.com/html/" target="_blank">HTML教程</a></li>
+            <li><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS" target="_blank">CSS参考</a></li>
+        </ul>
+    </div>
+</body>
+</html>
